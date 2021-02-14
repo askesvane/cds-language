@@ -9,10 +9,9 @@ import numpy as np
 
 
 #DEFINE PARAMETERS; file_path, keyword, window_size = 50
-keyword = "girl"
+keyword = "house"
 window_size = 30
 file_path = os.path.join("..","..","data","100_english_novels", "corpus")
-
 
 
 # Function to calculate word frequency from a list of words
