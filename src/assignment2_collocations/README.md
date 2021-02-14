@@ -1,4 +1,4 @@
-# README
+# Assignment 2: Collocations
 
 This folder contains assignment 2 for the course 'Language Analytics'.
 
